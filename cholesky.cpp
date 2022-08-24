@@ -1,18 +1,9 @@
 /*
 *   RAHENINTSOA
 *   Maminirina
-*   L3 MISA 2020-2021
 *   nirinaramamy1@gmail.com
 *   +261 34 23 944 07
 */
-
-/*---------------------------------
-Pour compiler le programme :
-
-g++ maminirina.cpp -o maminirina
-./maminirina
-
----------------------------------*/
 
 #include <iostream>
 #include <iomanip>
